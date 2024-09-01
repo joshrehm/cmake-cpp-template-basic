@@ -1,0 +1,9 @@
+#
+# This list of files, in the template source directory, will have their
+# variables expanded. Note that paths are always expanded.
+#
+include/$\{PROJECT_NAME_SNAKE\}.h
+src/$\{PROJECT_NAME_SNAKE\}.cpp
+src/CMakeLists.txt
+CMakeLists.txt
+CMakePresets.json
